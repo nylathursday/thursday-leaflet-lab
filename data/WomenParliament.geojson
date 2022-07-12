@@ -1,0 +1,3653 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Afghanistan",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 27.3,
+        "Perc_2015": 27.7,
+        "Perc_2017": 27.7,
+        "Perc_2018": 27.7,
+        "Perc_2019": "",
+        "Perc_2020": 27,
+        "Perc_2021": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [66.2385101, 33.7680054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Albania",
+        "Perc_2000": 5.2,
+        "Perc_2005": 6.4,
+        "Perc_2010": 16.4,
+        "Perc_2015": 20.7,
+        "Perc_2017": 22.9,
+        "Perc_2018": 27.9,
+        "Perc_2019": 29.3,
+        "Perc_2020": 29.5,
+        "Perc_2021": 29.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.0650768, 41.139946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Algeria",
+        "Perc_2000": 3.2,
+        "Perc_2005": 6.2,
+        "Perc_2010": 7.7,
+        "Perc_2015": 31.6,
+        "Perc_2017": 31.6,
+        "Perc_2018": 25.8,
+        "Perc_2019": 25.8,
+        "Perc_2020": 25.8,
+        "Perc_2021": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.9999831, 28.0000267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Andorra",
+        "Perc_2000": 7.1,
+        "Perc_2005": 14.3,
+        "Perc_2010": 35.7,
+        "Perc_2015": 50,
+        "Perc_2017": 32.1,
+        "Perc_2018": 32.1,
+        "Perc_2019": 32.1,
+        "Perc_2020": 46.4,
+        "Perc_2021": 46.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.5754271, 42.5452995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Angola",
+        "Perc_2000": 15.5,
+        "Perc_2005": 15,
+        "Perc_2010": 38.6,
+        "Perc_2015": 36.8,
+        "Perc_2017": 38.2,
+        "Perc_2018": 30.5,
+        "Perc_2019": 30,
+        "Perc_2020": 30,
+        "Perc_2021": 29.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.5691242, -11.8775768]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Antigua and Barbuda",
+        "Perc_2000": 5.3,
+        "Perc_2005": 10.5,
+        "Perc_2010": 10.5,
+        "Perc_2015": 11.1,
+        "Perc_2017": 11.1,
+        "Perc_2018": 11.1,
+        "Perc_2019": 11.1,
+        "Perc_2020": 11.1,
+        "Perc_2021": 11.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.7992439, 17.0772877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Argentina",
+        "Perc_2000": 28,
+        "Perc_2005": 33.7,
+        "Perc_2010": 38.5,
+        "Perc_2015": 36.2,
+        "Perc_2017": 38.9,
+        "Perc_2018": 38.9,
+        "Perc_2019": 38.8,
+        "Perc_2020": 40.9,
+        "Perc_2021": 42.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.9672852, -34.9964981]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Armenia",
+        "Perc_2000": 3.1,
+        "Perc_2005": 5.3,
+        "Perc_2010": 9.2,
+        "Perc_2015": 10.7,
+        "Perc_2017": 9.9,
+        "Perc_2018": 18.1,
+        "Perc_2019": 24.2,
+        "Perc_2020": 23.5,
+        "Perc_2021": 22.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.6736641, 40.7696266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Australia",
+        "Perc_2000": 22.4,
+        "Perc_2005": 24.7,
+        "Perc_2010": 27.3,
+        "Perc_2015": 26.7,
+        "Perc_2017": 28.7,
+        "Perc_2018": 28.7,
+        "Perc_2019": 30,
+        "Perc_2020": 30.5,
+        "Perc_2021": 31.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.4901886, -25.7281036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Austria",
+        "Perc_2000": 26.8,
+        "Perc_2005": 33.9,
+        "Perc_2010": 27.9,
+        "Perc_2015": 30.6,
+        "Perc_2017": 30.6,
+        "Perc_2018": 34.4,
+        "Perc_2019": 37.2,
+        "Perc_2020": 39.3,
+        "Perc_2021": 39.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.1409884, 47.5870705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Azerbaijan",
+        "Perc_2000": 10.4,
+        "Perc_2005": 10.5,
+        "Perc_2010": 11.4,
+        "Perc_2015": 15.6,
+        "Perc_2017": 16.8,
+        "Perc_2018": 16.8,
+        "Perc_2019": 16.8,
+        "Perc_2020": 16.8,
+        "Perc_2021": 18.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.7872505, 40.393631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bahamas",
+        "Perc_2000": 15,
+        "Perc_2005": 20,
+        "Perc_2010": 12.2,
+        "Perc_2015": 13.2,
+        "Perc_2017": 13.2,
+        "Perc_2018": 12.8,
+        "Perc_2019": 12.8,
+        "Perc_2020": 12.8,
+        "Perc_2021": 12.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.0000534, 24.7736549]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bahrain",
+        "Perc_2000": "",
+        "Perc_2005": 0,
+        "Perc_2010": 2.5,
+        "Perc_2015": 7.5,
+        "Perc_2017": 7.5,
+        "Perc_2018": 7.5,
+        "Perc_2019": 15,
+        "Perc_2020": 15,
+        "Perc_2021": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [50.534462, 26.1551247]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bangladesh",
+        "Perc_2000": 9.1,
+        "Perc_2005": 2,
+        "Perc_2010": 18.6,
+        "Perc_2015": 20,
+        "Perc_2017": 20.3,
+        "Perc_2018": 20.3,
+        "Perc_2019": 20.7,
+        "Perc_2020": 20.9,
+        "Perc_2021": 20.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.256279, 23.8743095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Barbados",
+        "Perc_2000": 10.7,
+        "Perc_2005": 13.3,
+        "Perc_2010": 10,
+        "Perc_2015": 16.7,
+        "Perc_2017": 16.7,
+        "Perc_2018": 16.7,
+        "Perc_2019": 20,
+        "Perc_2020": 20,
+        "Perc_2021": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-59.525032, 13.150033]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Belarus",
+        "Perc_2000": 9.1,
+        "Perc_2005": 29.4,
+        "Perc_2010": 31.8,
+        "Perc_2015": 27.3,
+        "Perc_2017": 34.5,
+        "Perc_2018": 34.5,
+        "Perc_2019": 34.5,
+        "Perc_2020": 40,
+        "Perc_2021": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.0494633, 53.541935]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Belgium",
+        "Perc_2000": 23.3,
+        "Perc_2005": 34.7,
+        "Perc_2010": 38,
+        "Perc_2015": 39.3,
+        "Perc_2017": 38,
+        "Perc_2018": 38,
+        "Perc_2019": 38,
+        "Perc_2020": 40.7,
+        "Perc_2021": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.6612859, 50.6409569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Belize",
+        "Perc_2000": 6.9,
+        "Perc_2005": 6.7,
+        "Perc_2010": 0,
+        "Perc_2015": 3.1,
+        "Perc_2017": 9.4,
+        "Perc_2018": 9.4,
+        "Perc_2019": 9.4,
+        "Perc_2020": 9.4,
+        "Perc_2021": 12.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.7092667, 17.1983414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Benin",
+        "Perc_2000": 6,
+        "Perc_2005": 7.2,
+        "Perc_2010": 10.8,
+        "Perc_2015": 8.4,
+        "Perc_2017": 7.2,
+        "Perc_2018": 7.2,
+        "Perc_2019": 7.2,
+        "Perc_2020": 7.2,
+        "Perc_2021": 8.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.258441, 9.5293474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bhutan",
+        "Perc_2000": 2,
+        "Perc_2005": 9.3,
+        "Perc_2010": 8.5,
+        "Perc_2015": 8.5,
+        "Perc_2017": 8.5,
+        "Perc_2018": 8.5,
+        "Perc_2019": 14.9,
+        "Perc_2020": 14.9,
+        "Perc_2021": 14.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [90.4310455, 27.4143486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bolivia",
+        "Perc_2000": 11.5,
+        "Perc_2005": 19.2,
+        "Perc_2010": 22.3,
+        "Perc_2015": 53.1,
+        "Perc_2017": 53.1,
+        "Perc_2018": 53.1,
+        "Perc_2019": 53.1,
+        "Perc_2020": 53.1,
+        "Perc_2021": 46.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-64.9912262, -17.0568695]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bosnia and Herzegovina",
+        "Perc_2000": 7.1,
+        "Perc_2005": 16.7,
+        "Perc_2010": 19,
+        "Perc_2015": 21.4,
+        "Perc_2017": 21.4,
+        "Perc_2018": 21.4,
+        "Perc_2019": 21.4,
+        "Perc_2020": 21.4,
+        "Perc_2021": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.7851925, 44.1683044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Botswana",
+        "Perc_2000": 17,
+        "Perc_2005": 11.1,
+        "Perc_2010": 7.9,
+        "Perc_2015": 9.5,
+        "Perc_2017": 9.5,
+        "Perc_2018": 9.5,
+        "Perc_2019": 9.5,
+        "Perc_2020": 10.8,
+        "Perc_2021": 10.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.5928745, -23.1681786]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Brazil",
+        "Perc_2000": 5.7,
+        "Perc_2005": 8.6,
+        "Perc_2010": 8.8,
+        "Perc_2015": 9,
+        "Perc_2017": 10.7,
+        "Perc_2018": 10.7,
+        "Perc_2019": 15,
+        "Perc_2020": 14.6,
+        "Perc_2021": 15.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.2000008, -10.333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Brunei Darussalam",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": "",
+        "Perc_2015": "",
+        "Perc_2017": 9.1,
+        "Perc_2018": 9.1,
+        "Perc_2019": 9.1,
+        "Perc_2020": 9.1,
+        "Perc_2021": 9.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.6298752, 4.4961309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Bulgaria",
+        "Perc_2000": 10.8,
+        "Perc_2005": 26.3,
+        "Perc_2010": 20.8,
+        "Perc_2015": 20.4,
+        "Perc_2017": 19.2,
+        "Perc_2018": 23.8,
+        "Perc_2019": 25.8,
+        "Perc_2020": 26.7,
+        "Perc_2021": 27.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.2350712, 42.7581596]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Burkina Faso",
+        "Perc_2000": 8.1,
+        "Perc_2005": 11.7,
+        "Perc_2010": 15.3,
+        "Perc_2015": 13.3,
+        "Perc_2017": 11,
+        "Perc_2018": 11,
+        "Perc_2019": 13.4,
+        "Perc_2020": 13.4,
+        "Perc_2021": 6.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.688031, 12.0753078]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Burundi",
+        "Perc_2000": 6,
+        "Perc_2005": 18.4,
+        "Perc_2010": 31.4,
+        "Perc_2015": 30.5,
+        "Perc_2017": 36.4,
+        "Perc_2018": 36.4,
+        "Perc_2019": 36.4,
+        "Perc_2020": 36.4,
+        "Perc_2021": 38.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.9324512, -3.4264491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Cabo Verde",
+        "Perc_2000": 11.1,
+        "Perc_2005": 11.1,
+        "Perc_2010": 18.1,
+        "Perc_2015": 20.8,
+        "Perc_2017": 23.6,
+        "Perc_2018": 23.6,
+        "Perc_2019": 23.6,
+        "Perc_2020": 25,
+        "Perc_2021": 26.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-23.6246681, 15.083539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Cambodia",
+        "Perc_2000": 8.2,
+        "Perc_2005": 9.8,
+        "Perc_2010": 21.1,
+        "Perc_2015": 20.3,
+        "Perc_2017": 20.3,
+        "Perc_2018": 20.3,
+        "Perc_2019": 20,
+        "Perc_2020": 20,
+        "Perc_2021": 21.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [104.9175644, 12.7115402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Cameroon",
+        "Perc_2000": 5.6,
+        "Perc_2005": 8.9,
+        "Perc_2010": 13.9,
+        "Perc_2015": 31.1,
+        "Perc_2017": 31.1,
+        "Perc_2018": 31.1,
+        "Perc_2019": 31.1,
+        "Perc_2020": 31.1,
+        "Perc_2021": 33.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.1535807, 4.6125522]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Canada",
+        "Perc_2000": 20.6,
+        "Perc_2005": 21.1,
+        "Perc_2010": 22.1,
+        "Perc_2015": 25.2,
+        "Perc_2017": 26.3,
+        "Perc_2018": 27,
+        "Perc_2019": 26.9,
+        "Perc_2020": 29,
+        "Perc_2021": 29.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-96.6079025, 62.5742073]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Central African Republic",
+        "Perc_2000": 7.3,
+        "Perc_2005": "",
+        "Perc_2010": 9.6,
+        "Perc_2015": "",
+        "Perc_2017": 8.6,
+        "Perc_2018": 8.6,
+        "Perc_2019": 8.6,
+        "Perc_2020": 8.6,
+        "Perc_2021": 8.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.9981232, 7.0323601]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Chad",
+        "Perc_2000": 2.4,
+        "Perc_2005": 6.5,
+        "Perc_2010": 5.2,
+        "Perc_2015": 14.9,
+        "Perc_2017": 12.8,
+        "Perc_2018": 12.8,
+        "Perc_2019": 14.9,
+        "Perc_2020": 15.4,
+        "Perc_2021": 15.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.0156174, 15.6134138]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Chile",
+        "Perc_2000": 10.8,
+        "Perc_2005": 12.5,
+        "Perc_2010": 14.2,
+        "Perc_2015": 15.8,
+        "Perc_2017": 15.8,
+        "Perc_2018": "",
+        "Perc_2019": 22.6,
+        "Perc_2020": 22.6,
+        "Perc_2021": 22.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.3187714, -31.7613373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "China",
+        "Perc_2000": 21.8,
+        "Perc_2005": 20.2,
+        "Perc_2010": 21.3,
+        "Perc_2015": 23.6,
+        "Perc_2017": 23.7,
+        "Perc_2018": 24.2,
+        "Perc_2019": 24.9,
+        "Perc_2020": 24.9,
+        "Perc_2021": 24.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7533493, 36.5593719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Colombia",
+        "Perc_2000": 11.8,
+        "Perc_2005": 12,
+        "Perc_2010": 8.4,
+        "Perc_2015": 19.9,
+        "Perc_2017": 18.7,
+        "Perc_2018": 18.7,
+        "Perc_2019": 18.7,
+        "Perc_2020": 18.3,
+        "Perc_2021": 18.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.9088135, 4.0999169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Comoros",
+        "Perc_2000": "",
+        "Perc_2005": 3,
+        "Perc_2010": 3,
+        "Perc_2015": "",
+        "Perc_2017": 6.1,
+        "Perc_2018": 6.1,
+        "Perc_2019": 6.1,
+        "Perc_2020": 6.1,
+        "Perc_2021": 16.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.2832947, -12.2045174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Congo",
+        "Perc_2000": 12,
+        "Perc_2005": 8.5,
+        "Perc_2010": 7.3,
+        "Perc_2015": 7.4,
+        "Perc_2017": 7.4,
+        "Perc_2018": 11.3,
+        "Perc_2019": 11.3,
+        "Perc_2020": 11.3,
+        "Perc_2021": 11.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8222637, -2.9814341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Costa Rica",
+        "Perc_2000": 19.3,
+        "Perc_2005": 35.1,
+        "Perc_2010": 36.8,
+        "Perc_2015": 33.3,
+        "Perc_2017": 35.1,
+        "Perc_2018": 35.1,
+        "Perc_2019": 45.6,
+        "Perc_2020": 45.6,
+        "Perc_2021": 45.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.1951523, 9.9790068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "C�te d�Ivoire",
+        "Perc_2000": 8.5,
+        "Perc_2005": 8.5,
+        "Perc_2010": 8.9,
+        "Perc_2015": 9.2,
+        "Perc_2017": 11.5,
+        "Perc_2018": 10.6,
+        "Perc_2019": 11,
+        "Perc_2020": 12,
+        "Perc_2021": 11.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.567946, 7.989737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Croatia",
+        "Perc_2000": 0,
+        "Perc_2005": 21.7,
+        "Perc_2010": 23.5,
+        "Perc_2015": 25.8,
+        "Perc_2017": 19.9,
+        "Perc_2018": 18.5,
+        "Perc_2019": 20.5,
+        "Perc_2020": 19.2,
+        "Perc_2021": 31.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.4281349, 45.1402283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Cuba",
+        "Perc_2000": 27.6,
+        "Perc_2005": 36,
+        "Perc_2010": 43.2,
+        "Perc_2015": 48.9,
+        "Perc_2017": 48.9,
+        "Perc_2018": 48.9,
+        "Perc_2019": 53.2,
+        "Perc_2020": 53.2,
+        "Perc_2021": 53.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.8328781, 23.013134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Cyprus",
+        "Perc_2000": 5.4,
+        "Perc_2005": 16.1,
+        "Perc_2010": 12.5,
+        "Perc_2015": 12.5,
+        "Perc_2017": 17.9,
+        "Perc_2018": 17.9,
+        "Perc_2019": 17.9,
+        "Perc_2020": 19.6,
+        "Perc_2021": 21.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.1451302, 34.9823036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Czechia",
+        "Perc_2000": 15,
+        "Perc_2005": 17,
+        "Perc_2010": 15.5,
+        "Perc_2015": 19,
+        "Perc_2017": 20,
+        "Perc_2018": 22,
+        "Perc_2019": 22.5,
+        "Perc_2020": 22.5,
+        "Perc_2021": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [15.3317976, 49.7392387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Democratic People's Republic of Korea",
+        "Perc_2000": 20.1,
+        "Perc_2005": 20.1,
+        "Perc_2010": 15.6,
+        "Perc_2015": 16.3,
+        "Perc_2017": 16.3,
+        "Perc_2018": 16.3,
+        "Perc_2019": 16.3,
+        "Perc_2020": 17.6,
+        "Perc_2021": 17.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.1686783, 40.1412582]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Democratic Republic of the Congo",
+        "Perc_2000": "",
+        "Perc_2005": 12,
+        "Perc_2010": 8.4,
+        "Perc_2015": 8.9,
+        "Perc_2017": 8.9,
+        "Perc_2018": 8.9,
+        "Perc_2019": 10.3,
+        "Perc_2020": 12.8,
+        "Perc_2021": 12.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.8222637, -2.9814341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Denmark",
+        "Perc_2000": 37.4,
+        "Perc_2005": 38,
+        "Perc_2010": 38,
+        "Perc_2015": 38,
+        "Perc_2017": 37.4,
+        "Perc_2018": 37.4,
+        "Perc_2019": 37.4,
+        "Perc_2020": 39.7,
+        "Perc_2021": 39.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.3190603, 56.0348091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Djibouti",
+        "Perc_2000": 0,
+        "Perc_2005": 10.8,
+        "Perc_2010": 13.8,
+        "Perc_2015": 12.7,
+        "Perc_2017": 10.8,
+        "Perc_2018": 10.8,
+        "Perc_2019": 26.2,
+        "Perc_2020": 26.2,
+        "Perc_2021": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [42.8453064, 11.8145962]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Dominica",
+        "Perc_2000": 18.8,
+        "Perc_2005": 19.4,
+        "Perc_2010": 14.3,
+        "Perc_2015": 21.9,
+        "Perc_2017": 25,
+        "Perc_2018": 25,
+        "Perc_2019": 25,
+        "Perc_2020": 38.1,
+        "Perc_2021": 34.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.3653603, 15.411314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Dominican Republic",
+        "Perc_2000": 16.1,
+        "Perc_2005": 17.3,
+        "Perc_2010": 19.7,
+        "Perc_2015": 20.8,
+        "Perc_2017": 26.8,
+        "Perc_2018": 26.8,
+        "Perc_2019": 26.8,
+        "Perc_2020": 27.9,
+        "Perc_2021": 27.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.302803, 19.0974026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ecuador",
+        "Perc_2000": 17.4,
+        "Perc_2005": 16,
+        "Perc_2010": 32.3,
+        "Perc_2015": 41.6,
+        "Perc_2017": 41.6,
+        "Perc_2018": 38,
+        "Perc_2019": 38,
+        "Perc_2020": 39.4,
+        "Perc_2021": 39.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.3666992, -1.339767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Egypt",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": "",
+        "Perc_2015": "",
+        "Perc_2017": 14.9,
+        "Perc_2018": 14.9,
+        "Perc_2019": 14.9,
+        "Perc_2020": 15.1,
+        "Perc_2021": 27.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.8741188, 26.502245]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "El Salvador",
+        "Perc_2000": 16.7,
+        "Perc_2005": 10.7,
+        "Perc_2010": 19,
+        "Perc_2015": 27.4,
+        "Perc_2017": 32.1,
+        "Perc_2018": 32.1,
+        "Perc_2019": 31,
+        "Perc_2020": 33.3,
+        "Perc_2021": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-88.8672562, 13.732667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Equatorial Guinea",
+        "Perc_2000": 5,
+        "Perc_2005": 18,
+        "Perc_2010": 10,
+        "Perc_2015": 24,
+        "Perc_2017": 24,
+        "Perc_2018": 20,
+        "Perc_2019": 20,
+        "Perc_2020": 21,
+        "Perc_2021": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.5170345, 1.613172]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Eritrea",
+        "Perc_2000": 14.7,
+        "Perc_2005": 22,
+        "Perc_2010": 22,
+        "Perc_2015": 22,
+        "Perc_2017": 22,
+        "Perc_2018": 22,
+        "Perc_2019": 22,
+        "Perc_2020": "",
+        "Perc_2021": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [37.9999657, 15.9500322]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Estonia",
+        "Perc_2000": 17.8,
+        "Perc_2005": 18.8,
+        "Perc_2010": 22.8,
+        "Perc_2015": 19.8,
+        "Perc_2017": 26.7,
+        "Perc_2018": 26.7,
+        "Perc_2019": 28.7,
+        "Perc_2020": 28.7,
+        "Perc_2021": 27.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.8377972, 58.6836624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Eswatini",
+        "Perc_2000": 3.1,
+        "Perc_2005": 10.8,
+        "Perc_2010": 13.6,
+        "Perc_2015": 6.2,
+        "Perc_2017": 6.2,
+        "Perc_2018": 6.2,
+        "Perc_2019": 7.2,
+        "Perc_2020": 9.6,
+        "Perc_2021": 9.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.3991318, -26.5624809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ethiopia",
+        "Perc_2000": 2,
+        "Perc_2005": 7.7,
+        "Perc_2010": 21.9,
+        "Perc_2015": 27.8,
+        "Perc_2017": 38.8,
+        "Perc_2018": 38.8,
+        "Perc_2019": 38.8,
+        "Perc_2020": 38.8,
+        "Perc_2021": 38.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.6521187, 10.2116699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Fiji",
+        "Perc_2000": 11.3,
+        "Perc_2005": 8.5,
+        "Perc_2010": "",
+        "Perc_2015": 14,
+        "Perc_2017": 16,
+        "Perc_2018": 16,
+        "Perc_2019": 19.6,
+        "Perc_2020": 19.6,
+        "Perc_2021": 21.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [177.96492, -17.8360443]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Finland",
+        "Perc_2000": 37,
+        "Perc_2005": 37.5,
+        "Perc_2010": 40,
+        "Perc_2015": 42.5,
+        "Perc_2017": 42,
+        "Perc_2018": 42,
+        "Perc_2019": 41.5,
+        "Perc_2020": 46,
+        "Perc_2021": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [26.2827644, 64.5197754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "France",
+        "Perc_2000": 10.9,
+        "Perc_2005": 12.2,
+        "Perc_2010": 18.9,
+        "Perc_2015": 26.2,
+        "Perc_2017": 25.8,
+        "Perc_2018": 39,
+        "Perc_2019": 39.7,
+        "Perc_2020": 39.5,
+        "Perc_2021": 39.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.4583931, 46.6248131]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Gabon",
+        "Perc_2000": 8.3,
+        "Perc_2005": 9.2,
+        "Perc_2010": 14.7,
+        "Perc_2015": 14.2,
+        "Perc_2017": 17.1,
+        "Perc_2018": 17.1,
+        "Perc_2019": 17.9,
+        "Perc_2020": 14.8,
+        "Perc_2021": 16.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.68997, -0.89997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Gambia",
+        "Perc_2000": 2,
+        "Perc_2005": 13.2,
+        "Perc_2010": 7.5,
+        "Perc_2015": 9.4,
+        "Perc_2017": 9.4,
+        "Perc_2018": 10.3,
+        "Perc_2019": 10.3,
+        "Perc_2020": 8.6,
+        "Perc_2021": 8.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-15.4900475, 13.4700623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Georgia",
+        "Perc_2000": 7.2,
+        "Perc_2005": 9.4,
+        "Perc_2010": 5.1,
+        "Perc_2015": 11.3,
+        "Perc_2017": 16,
+        "Perc_2018": 16,
+        "Perc_2019": 14.8,
+        "Perc_2020": 14.1,
+        "Perc_2021": 20.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [43.5061836, 42.1806793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Germany",
+        "Perc_2000": 30.9,
+        "Perc_2005": 32.8,
+        "Perc_2010": 32.8,
+        "Perc_2015": 36.5,
+        "Perc_2017": 37,
+        "Perc_2018": 30.7,
+        "Perc_2019": 30.9,
+        "Perc_2020": 31.2,
+        "Perc_2021": 31.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [10.380209, 51.0931244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ghana",
+        "Perc_2000": 9,
+        "Perc_2005": 10.9,
+        "Perc_2010": 8.3,
+        "Perc_2015": 10.9,
+        "Perc_2017": 12.7,
+        "Perc_2018": 12.7,
+        "Perc_2019": 13.1,
+        "Perc_2020": 13.1,
+        "Perc_2021": 14.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.080027, 8.0300283]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Greece",
+        "Perc_2000": 6.3,
+        "Perc_2005": 14,
+        "Perc_2010": 17.3,
+        "Perc_2015": 23,
+        "Perc_2017": 18.3,
+        "Perc_2018": 18.3,
+        "Perc_2019": 18.7,
+        "Perc_2020": 20.7,
+        "Perc_2021": 21.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9528446, 38.1480331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Grenada",
+        "Perc_2000": 26.7,
+        "Perc_2005": 26.7,
+        "Perc_2010": 13.3,
+        "Perc_2015": 33.3,
+        "Perc_2017": 33.3,
+        "Perc_2018": 33.3,
+        "Perc_2019": 46.7,
+        "Perc_2020": 46.7,
+        "Perc_2021": 46.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.690403, 12.1360378]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Guatemala",
+        "Perc_2000": 7.1,
+        "Perc_2005": 8.2,
+        "Perc_2010": 12,
+        "Perc_2015": 13.3,
+        "Perc_2017": 12.7,
+        "Perc_2018": 12.7,
+        "Perc_2019": 19,
+        "Perc_2020": 19,
+        "Perc_2021": 19.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-90.3570709, 15.6959066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Guinea",
+        "Perc_2000": 8.8,
+        "Perc_2005": 19.3,
+        "Perc_2010": "",
+        "Perc_2015": 21.9,
+        "Perc_2017": 21.9,
+        "Perc_2018": 21.9,
+        "Perc_2019": 22.8,
+        "Perc_2020": 22.8,
+        "Perc_2021": 16.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-10.7083588, 10.7226229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Guinea-Bissau",
+        "Perc_2000": 7.8,
+        "Perc_2005": 14,
+        "Perc_2010": 10,
+        "Perc_2015": 13.7,
+        "Perc_2017": 13.7,
+        "Perc_2018": 13.7,
+        "Perc_2019": 13.7,
+        "Perc_2020": 13.7,
+        "Perc_2021": 13.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-14.9000215, 12.1000347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Guyana",
+        "Perc_2000": 18.5,
+        "Perc_2005": 30.8,
+        "Perc_2010": 30,
+        "Perc_2015": 31.3,
+        "Perc_2017": 31.9,
+        "Perc_2018": 31.9,
+        "Perc_2019": 31.9,
+        "Perc_2020": 34.8,
+        "Perc_2021": 35.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.6416893, 4.8417101]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Haiti",
+        "Perc_2000": 3.6,
+        "Perc_2005": 3.6,
+        "Perc_2010": 4.1,
+        "Perc_2015": 4.2,
+        "Perc_2017": 2.6,
+        "Perc_2018": 2.5,
+        "Perc_2019": 2.5,
+        "Perc_2020": 2.5,
+        "Perc_2021": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-72.3570938, 19.1399956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Honduras",
+        "Perc_2000": 9.4,
+        "Perc_2005": 5.5,
+        "Perc_2010": 18,
+        "Perc_2015": 25.8,
+        "Perc_2017": 25.8,
+        "Perc_2018": 21.1,
+        "Perc_2019": 21.1,
+        "Perc_2020": 21.1,
+        "Perc_2021": 21.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-86.5979004, 14.8223562]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Hungary",
+        "Perc_2000": 8.3,
+        "Perc_2005": 9.1,
+        "Perc_2010": 11.1,
+        "Perc_2015": 10.1,
+        "Perc_2017": 10.1,
+        "Perc_2018": 10.1,
+        "Perc_2019": 12.6,
+        "Perc_2020": 12.1,
+        "Perc_2021": 12.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.4121895, 47.1652832]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Iceland",
+        "Perc_2000": 34.9,
+        "Perc_2005": 30.2,
+        "Perc_2010": 42.9,
+        "Perc_2015": 41.3,
+        "Perc_2017": 47.6,
+        "Perc_2018": 38.1,
+        "Perc_2019": 38.1,
+        "Perc_2020": 38.1,
+        "Perc_2021": 39.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-18.5789928, 64.9839783]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "India",
+        "Perc_2000": 9,
+        "Perc_2005": 8.3,
+        "Perc_2010": 10.8,
+        "Perc_2015": 12,
+        "Perc_2017": 11.8,
+        "Perc_2018": 11.8,
+        "Perc_2019": 12.6,
+        "Perc_2020": 14.4,
+        "Perc_2021": 14.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [79.3636856, 22.3525124]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Indonesia",
+        "Perc_2000": 8,
+        "Perc_2005": 11.3,
+        "Perc_2010": 18,
+        "Perc_2015": 17.1,
+        "Perc_2017": 19.8,
+        "Perc_2018": 19.8,
+        "Perc_2019": 18.2,
+        "Perc_2020": 20.4,
+        "Perc_2021": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.0099793, -0.199674]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Iran",
+        "Perc_2000": 4.9,
+        "Perc_2005": 4.1,
+        "Perc_2010": 2.8,
+        "Perc_2015": 3.1,
+        "Perc_2017": 5.9,
+        "Perc_2018": 5.9,
+        "Perc_2019": 5.9,
+        "Perc_2020": 5.9,
+        "Perc_2021": 5.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [54.5643501, 32.6475296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Iraq",
+        "Perc_2000": 6.4,
+        "Perc_2005": "",
+        "Perc_2010": 25.5,
+        "Perc_2015": 26.5,
+        "Perc_2017": 25.3,
+        "Perc_2018": 25.3,
+        "Perc_2019": 25.2,
+        "Perc_2020": 26.4,
+        "Perc_2021": 26.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.1749764, 33.095581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ireland",
+        "Perc_2000": 12,
+        "Perc_2005": 13.3,
+        "Perc_2010": 13.9,
+        "Perc_2015": 16.3,
+        "Perc_2017": 22.2,
+        "Perc_2018": 22.2,
+        "Perc_2019": 22.2,
+        "Perc_2020": 20.9,
+        "Perc_2021": 22.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-8.1488752, 53.1778336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Israel",
+        "Perc_2000": 11.7,
+        "Perc_2005": 15,
+        "Perc_2010": 19.2,
+        "Perc_2015": 22.5,
+        "Perc_2017": 27.5,
+        "Perc_2018": 27.5,
+        "Perc_2019": 29.2,
+        "Perc_2020": 23.3,
+        "Perc_2021": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.859478, 30.8124256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Italy",
+        "Perc_2000": 11.1,
+        "Perc_2005": 11.5,
+        "Perc_2010": 21.3,
+        "Perc_2015": 31,
+        "Perc_2017": 31,
+        "Perc_2018": 31,
+        "Perc_2019": 35.7,
+        "Perc_2020": 35.7,
+        "Perc_2021": 35.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.1599999, 43.525547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Jamaica",
+        "Perc_2000": 13.3,
+        "Perc_2005": 11.7,
+        "Perc_2010": 13.3,
+        "Perc_2015": 12.7,
+        "Perc_2017": 17.5,
+        "Perc_2018": 17.5,
+        "Perc_2019": 17.5,
+        "Perc_2020": 17.5,
+        "Perc_2021": 28.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.3639984, 18.2360001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Japan",
+        "Perc_2000": 4.6,
+        "Perc_2005": 7.1,
+        "Perc_2010": 11.3,
+        "Perc_2015": 9.5,
+        "Perc_2017": 9.3,
+        "Perc_2018": 10.1,
+        "Perc_2019": 10.2,
+        "Perc_2020": 9.9,
+        "Perc_2021": 9.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [137.9765625, 36.6541557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Jordan",
+        "Perc_2000": 0,
+        "Perc_2005": 5.5,
+        "Perc_2010": 6.4,
+        "Perc_2015": 12,
+        "Perc_2017": 15.4,
+        "Perc_2018": 15.4,
+        "Perc_2019": 15.4,
+        "Perc_2020": 15.4,
+        "Perc_2021": 11.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [36.9416275, 31.1667042]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Kazakhstan",
+        "Perc_2000": 10.4,
+        "Perc_2005": 10.4,
+        "Perc_2010": 17.8,
+        "Perc_2015": 26.2,
+        "Perc_2017": 27.1,
+        "Perc_2018": 27.1,
+        "Perc_2019": 27.1,
+        "Perc_2020": 27.1,
+        "Perc_2021": 27.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [65.2093201, 47.2286072]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Kenya",
+        "Perc_2000": 3.6,
+        "Perc_2005": 7.1,
+        "Perc_2010": 9.8,
+        "Perc_2015": 19.7,
+        "Perc_2017": 19.4,
+        "Perc_2018": 21.8,
+        "Perc_2019": 21.8,
+        "Perc_2020": 21.8,
+        "Perc_2021": 21.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [38.4313965, 1.441968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Kiribati",
+        "Perc_2000": 4.9,
+        "Perc_2005": 4.8,
+        "Perc_2010": 4.3,
+        "Perc_2015": 8.7,
+        "Perc_2017": 6.5,
+        "Perc_2018": 6.5,
+        "Perc_2019": 6.5,
+        "Perc_2020": 6.5,
+        "Perc_2021": 6.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-157.3548584, 1.849968]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Kuwait",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 7.7,
+        "Perc_2015": 1.5,
+        "Perc_2017": 3.1,
+        "Perc_2018": 3.1,
+        "Perc_2019": 4.6,
+        "Perc_2020": 6.4,
+        "Perc_2021": 1.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.4979477, 29.2733955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Kyrgyzstan",
+        "Perc_2000": 1.4,
+        "Perc_2005": 10,
+        "Perc_2010": 25.6,
+        "Perc_2015": 23.3,
+        "Perc_2017": 19.2,
+        "Perc_2018": 19.2,
+        "Perc_2019": 19.2,
+        "Perc_2020": 19.2,
+        "Perc_2021": 17.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [74.7240906, 41.508934]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Lao People's Democratic Republic",
+        "Perc_2000": 21.2,
+        "Perc_2005": 22.9,
+        "Perc_2010": 25.2,
+        "Perc_2015": 25,
+        "Perc_2017": 27.5,
+        "Perc_2018": 27.5,
+        "Perc_2019": 27.5,
+        "Perc_2020": 27.5,
+        "Perc_2021": 27.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.7693329, 18.4944019]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Latvia",
+        "Perc_2000": 17,
+        "Perc_2005": 21,
+        "Perc_2010": 22,
+        "Perc_2015": 18,
+        "Perc_2017": 16,
+        "Perc_2018": 16,
+        "Perc_2019": 31,
+        "Perc_2020": 30,
+        "Perc_2021": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9270668, 56.8540115]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Lebanon",
+        "Perc_2000": 2.3,
+        "Perc_2005": 2.3,
+        "Perc_2010": 3.1,
+        "Perc_2015": 3.1,
+        "Perc_2017": 3.1,
+        "Perc_2018": 3.1,
+        "Perc_2019": 4.7,
+        "Perc_2020": 4.7,
+        "Perc_2021": 4.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.8953552, 33.9222107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Lesotho",
+        "Perc_2000": 3.8,
+        "Perc_2005": 11.7,
+        "Perc_2010": 24.2,
+        "Perc_2015": 26.7,
+        "Perc_2017": 25,
+        "Perc_2018": 22.1,
+        "Perc_2019": 23.3,
+        "Perc_2020": 23.3,
+        "Perc_2021": 23.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.3350201, -29.6039276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Liberia",
+        "Perc_2000": 7.8,
+        "Perc_2005": 5.3,
+        "Perc_2010": 12.5,
+        "Perc_2015": 11,
+        "Perc_2017": 12.3,
+        "Perc_2018": 9.9,
+        "Perc_2019": 12.3,
+        "Perc_2020": 12.3,
+        "Perc_2021": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.3658524, 5.7499719]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Libya",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 7.7,
+        "Perc_2015": 16,
+        "Perc_2017": 16,
+        "Perc_2018": 16,
+        "Perc_2019": 16,
+        "Perc_2020": 16,
+        "Perc_2021": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [18.1236725, 26.8234463]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Liechtenstein",
+        "Perc_2000": 4,
+        "Perc_2005": 12,
+        "Perc_2010": 24,
+        "Perc_2015": 20,
+        "Perc_2017": 12,
+        "Perc_2018": 12,
+        "Perc_2019": 12,
+        "Perc_2020": 12,
+        "Perc_2021": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.5528641, 47.1412048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Lithuania",
+        "Perc_2000": 17.5,
+        "Perc_2005": 22,
+        "Perc_2010": 19.1,
+        "Perc_2015": 23.4,
+        "Perc_2017": 21.3,
+        "Perc_2018": 21.3,
+        "Perc_2019": 21.3,
+        "Perc_2020": 24.1,
+        "Perc_2021": 27.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.9049377, 55.3367653]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Luxembourg",
+        "Perc_2000": 16.7,
+        "Perc_2005": 23.3,
+        "Perc_2010": 20,
+        "Perc_2015": 28.3,
+        "Perc_2017": 28.3,
+        "Perc_2018": 28.3,
+        "Perc_2019": 25,
+        "Perc_2020": 30,
+        "Perc_2021": 31.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.092391, 49.7768249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Madagascar",
+        "Perc_2000": 8,
+        "Perc_2005": 6.9,
+        "Perc_2010": "",
+        "Perc_2015": 20.5,
+        "Perc_2017": 19.2,
+        "Perc_2018": 19.2,
+        "Perc_2019": 19.2,
+        "Perc_2020": 15.9,
+        "Perc_2021": 17.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [46.4416428, -18.9249611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Malawi",
+        "Perc_2000": 8.3,
+        "Perc_2005": 14,
+        "Perc_2010": 20.8,
+        "Perc_2015": 16.7,
+        "Perc_2017": 16.7,
+        "Perc_2018": 16.7,
+        "Perc_2019": 16.7,
+        "Perc_2020": 22.9,
+        "Perc_2021": 22.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [33.9301948, -13.2687206]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Malaysia",
+        "Perc_2000": 7.3,
+        "Perc_2005": 9.1,
+        "Perc_2010": 9.9,
+        "Perc_2015": 10.4,
+        "Perc_2017": 10.4,
+        "Perc_2018": 10.4,
+        "Perc_2019": 14.4,
+        "Perc_2020": 14.4,
+        "Perc_2021": 14.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.7044907, 3.602458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Maldives",
+        "Perc_2000": 6,
+        "Perc_2005": 12,
+        "Perc_2010": 6.5,
+        "Perc_2015": 5.9,
+        "Perc_2017": 5.9,
+        "Perc_2018": 5.9,
+        "Perc_2019": 4.7,
+        "Perc_2020": 4.6,
+        "Perc_2021": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [73.0910187, -0.610748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mali",
+        "Perc_2000": 12.2,
+        "Perc_2005": 10.2,
+        "Perc_2010": 10.2,
+        "Perc_2015": 9.5,
+        "Perc_2017": 8.8,
+        "Perc_2018": 8.8,
+        "Perc_2019": 8.8,
+        "Perc_2020": 9.5,
+        "Perc_2021": 27.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.290024, 16.3700352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Malta",
+        "Perc_2000": 9.2,
+        "Perc_2005": 9.2,
+        "Perc_2010": 8.7,
+        "Perc_2015": 12.9,
+        "Perc_2017": 12.5,
+        "Perc_2018": 11.9,
+        "Perc_2019": 11.9,
+        "Perc_2020": 13.4,
+        "Perc_2021": 13.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.4402189, 35.8881187]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Marshall Islands",
+        "Perc_2000": 3,
+        "Perc_2005": 3,
+        "Perc_2010": 3,
+        "Perc_2015": 3,
+        "Perc_2017": 9.1,
+        "Perc_2018": 9.1,
+        "Perc_2019": 9.1,
+        "Perc_2020": 6.1,
+        "Perc_2021": 6.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [171.2942047, 7.0693779]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mauritania",
+        "Perc_2000": 3.8,
+        "Perc_2005": 3.7,
+        "Perc_2010": 22.1,
+        "Perc_2015": 25.2,
+        "Perc_2017": 25.2,
+        "Perc_2018": 25.2,
+        "Perc_2019": 20.3,
+        "Perc_2020": 20.3,
+        "Perc_2021": 20.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.2399263, 20.2540379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mauritius",
+        "Perc_2000": 7.6,
+        "Perc_2005": 5.7,
+        "Perc_2010": 17.1,
+        "Perc_2015": 11.6,
+        "Perc_2017": 11.6,
+        "Perc_2018": 11.6,
+        "Perc_2019": 11.6,
+        "Perc_2020": 20,
+        "Perc_2021": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57.5718155, -20.2834129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mexico",
+        "Perc_2000": 18.2,
+        "Perc_2005": 22.6,
+        "Perc_2010": 27.6,
+        "Perc_2015": 38,
+        "Perc_2017": 42.6,
+        "Perc_2018": 42.6,
+        "Perc_2019": 48.2,
+        "Perc_2020": 48.2,
+        "Perc_2021": 48.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-102.509697, 23.9335918]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Monaco",
+        "Perc_2000": 22.2,
+        "Perc_2005": 20.8,
+        "Perc_2010": 26.1,
+        "Perc_2015": 20.8,
+        "Perc_2017": 20.8,
+        "Perc_2018": 20.8,
+        "Perc_2019": 33.3,
+        "Perc_2020": 33.3,
+        "Perc_2021": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.4179449, 43.7323875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mongolia",
+        "Perc_2000": 7.9,
+        "Perc_2005": 6.8,
+        "Perc_2010": 3.9,
+        "Perc_2015": 14.9,
+        "Perc_2017": 17.1,
+        "Perc_2018": 17.1,
+        "Perc_2019": 17.1,
+        "Perc_2020": 17.3,
+        "Perc_2021": 17.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.0675507, 46.8349266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Montenegro",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 11.1,
+        "Perc_2015": 17.3,
+        "Perc_2017": 23.5,
+        "Perc_2018": 23.5,
+        "Perc_2019": 23.5,
+        "Perc_2020": 29.6,
+        "Perc_2021": 24.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.2516975, 42.7868767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Morocco",
+        "Perc_2000": 0.6,
+        "Perc_2005": 10.8,
+        "Perc_2010": 10.5,
+        "Perc_2015": 17,
+        "Perc_2017": 20.5,
+        "Perc_2018": 20.5,
+        "Perc_2019": 20.5,
+        "Perc_2020": 20.5,
+        "Perc_2021": 20.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.3362479, 31.172821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Mozambique",
+        "Perc_2000": 30,
+        "Perc_2005": 34.8,
+        "Perc_2010": 39.2,
+        "Perc_2015": 39.6,
+        "Perc_2017": 39.6,
+        "Perc_2018": 39.6,
+        "Perc_2019": 39.6,
+        "Perc_2020": 41.2,
+        "Perc_2021": 42.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [34.9144974, -19.3022327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Myanmar",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": "",
+        "Perc_2015": 6.2,
+        "Perc_2017": 10.2,
+        "Perc_2018": 10.2,
+        "Perc_2019": 11.3,
+        "Perc_2020": 11.1,
+        "Perc_2021": 15.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [96.516983, 21.1775761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Namibia",
+        "Perc_2000": 22.2,
+        "Perc_2005": 25,
+        "Perc_2010": 26.9,
+        "Perc_2015": 41.3,
+        "Perc_2017": 41.3,
+        "Perc_2018": 46.2,
+        "Perc_2019": 46.2,
+        "Perc_2020": 42.7,
+        "Perc_2021": 44.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [17.3231106, -23.2335491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Nauru",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 0,
+        "Perc_2015": 5.3,
+        "Perc_2017": 10.5,
+        "Perc_2018": 10.5,
+        "Perc_2019": 10.5,
+        "Perc_2020": 10.5,
+        "Perc_2021": 10.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [166.934082, -0.528556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Nepal",
+        "Perc_2000": 5.9,
+        "Perc_2005": "",
+        "Perc_2010": 33.2,
+        "Perc_2015": 29.5,
+        "Perc_2017": 29.6,
+        "Perc_2018": 32.7,
+        "Perc_2019": 32.7,
+        "Perc_2020": 32.7,
+        "Perc_2021": 32.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [83.9366074, 28.2609215]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Netherlands",
+        "Perc_2000": 36,
+        "Perc_2005": 36.7,
+        "Perc_2010": 42,
+        "Perc_2015": 37.3,
+        "Perc_2017": 38,
+        "Perc_2018": 36,
+        "Perc_2019": 31.3,
+        "Perc_2020": 33.3,
+        "Perc_2021": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.626966, 52.2456474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "New Zealand",
+        "Perc_2000": 29.2,
+        "Perc_2005": 28.3,
+        "Perc_2010": 33.6,
+        "Perc_2015": 31.4,
+        "Perc_2017": 34.2,
+        "Perc_2018": 38.3,
+        "Perc_2019": 40,
+        "Perc_2020": 40.8,
+        "Perc_2021": 48.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [170.4809723, -43.9858284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Nicaragua",
+        "Perc_2000": 9.7,
+        "Perc_2005": 20.7,
+        "Perc_2010": 20.7,
+        "Perc_2015": 39.1,
+        "Perc_2017": 45.7,
+        "Perc_2018": 45.7,
+        "Perc_2019": 44.6,
+        "Perc_2020": 47.3,
+        "Perc_2021": 48.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.0319519, 12.8443527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Niger",
+        "Perc_2000": 1.2,
+        "Perc_2005": 12.4,
+        "Perc_2010": 9.7,
+        "Perc_2015": 13.3,
+        "Perc_2017": 17,
+        "Perc_2018": 17,
+        "Perc_2019": 17,
+        "Perc_2020": 17,
+        "Perc_2021": 25.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.323843, 17.7356205]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Nigeria",
+        "Perc_2000": "",
+        "Perc_2005": 4.7,
+        "Perc_2010": 7,
+        "Perc_2015": 6.7,
+        "Perc_2017": 5.6,
+        "Perc_2018": 5.6,
+        "Perc_2019": 5.6,
+        "Perc_2020": 3.4,
+        "Perc_2021": 3.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.9999719, 9.6000357]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "North Macedonia",
+        "Perc_2000": 7.5,
+        "Perc_2005": 19.2,
+        "Perc_2010": 32.5,
+        "Perc_2015": 33.3,
+        "Perc_2017": 31.7,
+        "Perc_2018": 37.5,
+        "Perc_2019": 38.3,
+        "Perc_2020": 40,
+        "Perc_2021": 39.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [21.7010479, 41.6005554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Norway",
+        "Perc_2000": 36.4,
+        "Perc_2005": 38.2,
+        "Perc_2010": 39.6,
+        "Perc_2015": 39.6,
+        "Perc_2017": 39.6,
+        "Perc_2018": 41.4,
+        "Perc_2019": 40.8,
+        "Perc_2020": 41.4,
+        "Perc_2021": 44.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.6016293, 62.1413536]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Oman",
+        "Perc_2000": "",
+        "Perc_2005": 2.4,
+        "Perc_2010": 0,
+        "Perc_2015": 1.2,
+        "Perc_2017": 1.2,
+        "Perc_2018": 1.2,
+        "Perc_2019": 1.2,
+        "Perc_2020": 2.3,
+        "Perc_2021": 2.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [57.0036888, 21.0000286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Pakistan",
+        "Perc_2000": "",
+        "Perc_2005": 21.3,
+        "Perc_2010": 22.2,
+        "Perc_2015": 20.7,
+        "Perc_2017": 20.6,
+        "Perc_2018": 20.6,
+        "Perc_2019": 20.2,
+        "Perc_2020": 20.2,
+        "Perc_2021": 20.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [68.8153381, 29.3999748]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Palau",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 0,
+        "Perc_2015": 0,
+        "Perc_2017": 12.5,
+        "Perc_2018": 12.5,
+        "Perc_2019": 12.5,
+        "Perc_2020": 12.5,
+        "Perc_2021": 6.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [134.5653992, 7.4992161]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Panama",
+        "Perc_2000": 9.7,
+        "Perc_2005": 16.7,
+        "Perc_2010": 8.5,
+        "Perc_2015": 19.3,
+        "Perc_2017": 18.3,
+        "Perc_2018": 18.3,
+        "Perc_2019": 18.3,
+        "Perc_2020": 22.5,
+        "Perc_2021": 22.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.0885544, 8.5197258]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Papua New Guinea",
+        "Perc_2000": 1.8,
+        "Perc_2005": 0.9,
+        "Perc_2010": 0.9,
+        "Perc_2015": 2.7,
+        "Perc_2017": 2.7,
+        "Perc_2018": 0,
+        "Perc_2019": 0,
+        "Perc_2020": 0,
+        "Perc_2021": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [144.2591705, -6.602757]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Paraguay",
+        "Perc_2000": 2.5,
+        "Perc_2005": 10,
+        "Perc_2010": 12.5,
+        "Perc_2015": 15,
+        "Perc_2017": 13.8,
+        "Perc_2018": 13.8,
+        "Perc_2019": 15,
+        "Perc_2020": 16.3,
+        "Perc_2021": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-58.1693459, -23.3165932]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Peru",
+        "Perc_2000": 10.8,
+        "Perc_2005": 18.3,
+        "Perc_2010": 27.5,
+        "Perc_2015": 22.3,
+        "Perc_2017": 27.7,
+        "Perc_2018": 27.7,
+        "Perc_2019": 30,
+        "Perc_2020": 30,
+        "Perc_2021": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.0458527, -6.8699698]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Philippines",
+        "Perc_2000": 12.4,
+        "Perc_2005": 15.3,
+        "Perc_2010": 21,
+        "Perc_2015": 27.2,
+        "Perc_2017": 29.5,
+        "Perc_2018": 29.5,
+        "Perc_2019": 29.5,
+        "Perc_2020": 28,
+        "Perc_2021": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [121.421669, 15.9474068]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Poland",
+        "Perc_2000": 13,
+        "Perc_2005": 20.2,
+        "Perc_2010": 20,
+        "Perc_2015": 24.1,
+        "Perc_2017": 28,
+        "Perc_2018": 28,
+        "Perc_2019": 29.1,
+        "Perc_2020": 28.7,
+        "Perc_2021": 28.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.4004269, 52.1246681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Portugal",
+        "Perc_2000": 18.7,
+        "Perc_2005": 19.1,
+        "Perc_2010": 27.4,
+        "Perc_2015": 31.3,
+        "Perc_2017": 34.8,
+        "Perc_2018": 34.8,
+        "Perc_2019": 35.7,
+        "Perc_2020": 40,
+        "Perc_2021": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-7.9682908, 39.6821976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Qatar",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 0,
+        "Perc_2015": 0,
+        "Perc_2017": 0,
+        "Perc_2018": 9.8,
+        "Perc_2019": 9.8,
+        "Perc_2020": 9.8,
+        "Perc_2021": 9.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [51.2295303, 25.3336983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Republic of Korea",
+        "Perc_2000": 3.7,
+        "Perc_2005": 13,
+        "Perc_2010": 14.7,
+        "Perc_2015": 16.3,
+        "Perc_2017": 17,
+        "Perc_2018": 17,
+        "Perc_2019": 17.1,
+        "Perc_2020": 17.3,
+        "Perc_2021": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [127.8328705, 36.4382286]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Republic of Moldova",
+        "Perc_2000": 8.9,
+        "Perc_2005": 15.8,
+        "Perc_2010": 23.8,
+        "Perc_2015": 20.8,
+        "Perc_2017": 22.8,
+        "Perc_2018": 22.8,
+        "Perc_2019": 22.8,
+        "Perc_2020": 24.8,
+        "Perc_2021": 24.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [28.465004, 47.2022171]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Romania",
+        "Perc_2000": 7.3,
+        "Perc_2005": 11.4,
+        "Perc_2010": 11.4,
+        "Perc_2015": 13.7,
+        "Perc_2017": 20.7,
+        "Perc_2018": 20.7,
+        "Perc_2019": 20.7,
+        "Perc_2020": 21.9,
+        "Perc_2021": 18.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.9845657, 45.8397675]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Russian Federation",
+        "Perc_2000": 7.7,
+        "Perc_2005": 9.8,
+        "Perc_2010": 14,
+        "Perc_2015": 13.6,
+        "Perc_2017": 15.8,
+        "Perc_2018": 15.8,
+        "Perc_2019": 15.8,
+        "Perc_2020": 15.8,
+        "Perc_2021": 15.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [99.0985642, 61.6670265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Rwanda",
+        "Perc_2000": 17.1,
+        "Perc_2005": 48.8,
+        "Perc_2010": 56.3,
+        "Perc_2015": 63.8,
+        "Perc_2017": 61.3,
+        "Perc_2018": 61.3,
+        "Perc_2019": 61.3,
+        "Perc_2020": 61.3,
+        "Perc_2021": 61.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [30.064436, -1.964663]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Saint Kitts and Nevis",
+        "Perc_2000": 13.3,
+        "Perc_2005": 0,
+        "Perc_2010": 6.7,
+        "Perc_2015": 6.7,
+        "Perc_2017": 13.3,
+        "Perc_2018": 13.3,
+        "Perc_2019": 13.3,
+        "Perc_2020": 20,
+        "Perc_2021": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-62.7656708, 17.3398323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Saint Lucia",
+        "Perc_2000": 11.1,
+        "Perc_2005": 11.1,
+        "Perc_2010": 11.1,
+        "Perc_2015": 16.7,
+        "Perc_2017": 16.7,
+        "Perc_2018": 16.7,
+        "Perc_2019": 16.7,
+        "Perc_2020": 16.7,
+        "Perc_2021": 16.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-60.9750366, 13.8250485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Saint Vincent and the Grenadines",
+        "Perc_2000": 4.8,
+        "Perc_2005": 22.7,
+        "Perc_2010": 21.7,
+        "Perc_2015": 13,
+        "Perc_2017": 13,
+        "Perc_2018": 13,
+        "Perc_2019": 13,
+        "Perc_2020": 13,
+        "Perc_2021": 18.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.1891098, 13.2514648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Samoa",
+        "Perc_2000": 8.2,
+        "Perc_2005": 6.1,
+        "Perc_2010": 8.2,
+        "Perc_2015": 6.1,
+        "Perc_2017": 10,
+        "Perc_2018": 10,
+        "Perc_2019": 10,
+        "Perc_2020": 10,
+        "Perc_2021": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-172.4469452, -13.6207809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "San Marino",
+        "Perc_2000": 13.3,
+        "Perc_2005": 16.7,
+        "Perc_2010": 16.7,
+        "Perc_2015": 16.7,
+        "Perc_2017": 26.7,
+        "Perc_2018": 26.7,
+        "Perc_2019": 25,
+        "Perc_2020": 31.7,
+        "Perc_2021": 33.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [12.4632444, 43.9382591]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sao Tome and Principe",
+        "Perc_2000": 9.1,
+        "Perc_2005": 9.1,
+        "Perc_2010": 7.3,
+        "Perc_2015": 18.2,
+        "Perc_2017": 18.2,
+        "Perc_2018": 18.2,
+        "Perc_2019": 14.5,
+        "Perc_2020": 14.6,
+        "Perc_2021": 23.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.602026, 0.239403]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Saudi Arabia",
+        "Perc_2000": "",
+        "Perc_2005": 0,
+        "Perc_2010": 0,
+        "Perc_2015": 19.9,
+        "Perc_2017": 19.9,
+        "Perc_2018": 19.9,
+        "Perc_2019": 19.9,
+        "Perc_2020": 19.9,
+        "Perc_2021": 19.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [44.548214, 24.1262817]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Senegal",
+        "Perc_2000": 12.1,
+        "Perc_2005": 19.2,
+        "Perc_2010": 22.7,
+        "Perc_2015": 42.7,
+        "Perc_2017": 42.7,
+        "Perc_2018": 41.8,
+        "Perc_2019": 41.8,
+        "Perc_2020": 43,
+        "Perc_2021": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-14.452961, 14.4750605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Serbia",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 21.6,
+        "Perc_2015": 34,
+        "Perc_2017": 34.4,
+        "Perc_2018": 34.4,
+        "Perc_2019": 37.7,
+        "Perc_2020": 37.7,
+        "Perc_2021": 39.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [20.7939949, 44.2306023]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Seychelles",
+        "Perc_2000": 23.5,
+        "Perc_2005": 29.4,
+        "Perc_2010": 23.5,
+        "Perc_2015": 43.8,
+        "Perc_2017": 21.2,
+        "Perc_2018": 21.2,
+        "Perc_2019": 21.2,
+        "Perc_2020": 21.2,
+        "Perc_2021": 22.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [55.4540138, -4.6574979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sierra Leone",
+        "Perc_2000": 8.8,
+        "Perc_2005": 14.5,
+        "Perc_2010": 13.2,
+        "Perc_2015": 12.4,
+        "Perc_2017": 12.4,
+        "Perc_2018": 12.4,
+        "Perc_2019": 12.3,
+        "Perc_2020": 12.3,
+        "Perc_2021": 12.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-11.8400269, 8.6400347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Singapore",
+        "Perc_2000": 4.3,
+        "Perc_2005": 16,
+        "Perc_2010": 23.4,
+        "Perc_2015": 25.3,
+        "Perc_2017": 23.8,
+        "Perc_2018": 23,
+        "Perc_2019": 23,
+        "Perc_2020": 24,
+        "Perc_2021": 29.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [103.8083191, 1.356389]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Slovakia",
+        "Perc_2000": 12.7,
+        "Perc_2005": 16.7,
+        "Perc_2010": 18,
+        "Perc_2015": 18.7,
+        "Perc_2017": 20,
+        "Perc_2018": 20,
+        "Perc_2019": 20,
+        "Perc_2020": 20.7,
+        "Perc_2021": 22.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [19.4848061, 48.7074776]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Slovenia",
+        "Perc_2000": 7.8,
+        "Perc_2005": 12.2,
+        "Perc_2010": 14.4,
+        "Perc_2015": 36.7,
+        "Perc_2017": 36.7,
+        "Perc_2018": 36.7,
+        "Perc_2019": 24.4,
+        "Perc_2020": 27.8,
+        "Perc_2021": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.8220034, 46.1194763]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Solomon Islands",
+        "Perc_2000": 2,
+        "Perc_2005": 0,
+        "Perc_2010": 0,
+        "Perc_2015": 2,
+        "Perc_2017": 2,
+        "Perc_2018": 2,
+        "Perc_2019": 2,
+        "Perc_2020": 6.1,
+        "Perc_2021": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [160.1595306, -9.6223888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Somalia",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": 6.9,
+        "Perc_2015": 13.8,
+        "Perc_2017": 24.2,
+        "Perc_2018": 24.4,
+        "Perc_2019": 24.4,
+        "Perc_2020": 24.4,
+        "Perc_2021": 24.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [49.083416, 8.3676767]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "South Africa",
+        "Perc_2000": 30,
+        "Perc_2005": 32.8,
+        "Perc_2010": 44.5,
+        "Perc_2015": 41.5,
+        "Perc_2017": 42.2,
+        "Perc_2018": 42.4,
+        "Perc_2019": 42.7,
+        "Perc_2020": 46.4,
+        "Perc_2021": 45.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [25.0871429, -28.9963207]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "South Sudan",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": "",
+        "Perc_2015": 26.5,
+        "Perc_2017": 28.5,
+        "Perc_2018": 28.5,
+        "Perc_2019": 28.5,
+        "Perc_2020": 28.5,
+        "Perc_2021": 28.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.66679, 7.8699431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Spain",
+        "Perc_2000": 21.6,
+        "Perc_2005": 36,
+        "Perc_2010": 36.6,
+        "Perc_2015": 41.1,
+        "Perc_2017": 39.1,
+        "Perc_2018": 39.1,
+        "Perc_2019": 41.1,
+        "Perc_2020": 44,
+        "Perc_2021": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.5543799, 40.3901062]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sri Lanka",
+        "Perc_2000": 4.9,
+        "Perc_2005": 4.9,
+        "Perc_2010": 5.8,
+        "Perc_2015": 5.8,
+        "Perc_2017": 5.8,
+        "Perc_2018": 5.8,
+        "Perc_2019": 5.3,
+        "Perc_2020": 5.3,
+        "Perc_2021": 5.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [80.7137833, 7.5554938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sudan",
+        "Perc_2000": "",
+        "Perc_2005": "",
+        "Perc_2010": "",
+        "Perc_2015": 24.3,
+        "Perc_2017": 30.5,
+        "Perc_2018": 30.5,
+        "Perc_2019": 27.7,
+        "Perc_2020": "",
+        "Perc_2021": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.4917698, 14.5844441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Suriname",
+        "Perc_2000": 15.7,
+        "Perc_2005": 19.6,
+        "Perc_2010": 25.5,
+        "Perc_2015": 11.8,
+        "Perc_2017": 25.5,
+        "Perc_2018": 25.5,
+        "Perc_2019": 29.4,
+        "Perc_2020": 31.4,
+        "Perc_2021": 29.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.0771179, 4.1413031]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Sweden",
+        "Perc_2000": 42.7,
+        "Perc_2005": 45.3,
+        "Perc_2010": 46.4,
+        "Perc_2015": 43.6,
+        "Perc_2017": 43.6,
+        "Perc_2018": 43.6,
+        "Perc_2019": 47.3,
+        "Perc_2020": 47,
+        "Perc_2021": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.7430153, 62.8386993]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Switzerland",
+        "Perc_2000": 22.5,
+        "Perc_2005": 25,
+        "Perc_2010": 29,
+        "Perc_2015": 30.5,
+        "Perc_2017": 32.5,
+        "Perc_2018": 32.5,
+        "Perc_2019": 32.5,
+        "Perc_2020": 41.5,
+        "Perc_2021": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.2309656, 46.801239]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Syrian Arab Republic",
+        "Perc_2000": 10.4,
+        "Perc_2005": 12,
+        "Perc_2010": 12.4,
+        "Perc_2015": 12.4,
+        "Perc_2017": 13.2,
+        "Perc_2018": 13.2,
+        "Perc_2019": 13.2,
+        "Perc_2020": 12.4,
+        "Perc_2021": 11.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [39.0494118, 34.6401863]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Tajikistan",
+        "Perc_2000": 2.8,
+        "Perc_2005": 12.7,
+        "Perc_2010": 17.5,
+        "Perc_2015": 16.9,
+        "Perc_2017": 19,
+        "Perc_2018": 19,
+        "Perc_2019": 19,
+        "Perc_2020": 19.1,
+        "Perc_2021": 23.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [70.8156509, 38.6281738]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Thailand",
+        "Perc_2000": 5.6,
+        "Perc_2005": 8.8,
+        "Perc_2010": 13.3,
+        "Perc_2015": 6.1,
+        "Perc_2017": 4.9,
+        "Perc_2018": 4.8,
+        "Perc_2019": 5.4,
+        "Perc_2020": 16.2,
+        "Perc_2021": 15.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [101.0183792, 15.1317892]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Timor-Leste",
+        "Perc_2000": "",
+        "Perc_2005": 25.3,
+        "Perc_2010": 29.2,
+        "Perc_2015": 38.5,
+        "Perc_2017": 38.5,
+        "Perc_2018": 32.3,
+        "Perc_2019": 40,
+        "Perc_2020": 38.5,
+        "Perc_2021": 38.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [125.9489212, -8.7982254]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Togo",
+        "Perc_2000": 4.9,
+        "Perc_2005": 6.2,
+        "Perc_2010": 11.1,
+        "Perc_2015": 17.6,
+        "Perc_2017": 17.6,
+        "Perc_2018": 17.6,
+        "Perc_2019": 16.5,
+        "Perc_2020": 18.7,
+        "Perc_2021": 18.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.019976, 8.7800264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Tonga",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 3.1,
+        "Perc_2015": 0,
+        "Perc_2017": 3.8,
+        "Perc_2018": 7.4,
+        "Perc_2019": 7.4,
+        "Perc_2020": 7.4,
+        "Perc_2021": 7.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-175.1902771, -21.1754799]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Trinidad and Tobago",
+        "Perc_2000": 11.1,
+        "Perc_2005": 19.4,
+        "Perc_2010": 26.8,
+        "Perc_2015": 28.6,
+        "Perc_2017": 31,
+        "Perc_2018": 31,
+        "Perc_2019": 31,
+        "Perc_2020": 31,
+        "Perc_2021": 26.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-61.0840073, 10.7466908]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Tunisia",
+        "Perc_2000": 11.5,
+        "Perc_2005": 22.8,
+        "Perc_2010": 27.6,
+        "Perc_2015": 31.3,
+        "Perc_2017": 31.3,
+        "Perc_2018": 31.3,
+        "Perc_2019": 35.9,
+        "Perc_2020": 24.9,
+        "Perc_2021": 26.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.4001379, 33.8439407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Turkey",
+        "Perc_2000": 4.2,
+        "Perc_2005": 4.4,
+        "Perc_2010": 9.1,
+        "Perc_2015": 14.4,
+        "Perc_2017": 14.9,
+        "Perc_2018": 14.6,
+        "Perc_2019": 17.4,
+        "Perc_2020": 17.3,
+        "Perc_2021": 17.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.4332428, 38.9890938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Turkmenistan",
+        "Perc_2000": 26,
+        "Perc_2005": "",
+        "Perc_2010": 16.8,
+        "Perc_2015": 25.8,
+        "Perc_2017": 25.8,
+        "Perc_2018": 25.8,
+        "Perc_2019": 25,
+        "Perc_2020": 25,
+        "Perc_2021": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [59.3924599, 39.3763809]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Tuvalu",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 0,
+        "Perc_2015": 6.7,
+        "Perc_2017": 6.7,
+        "Perc_2018": 6.7,
+        "Perc_2019": 6.7,
+        "Perc_2020": 6.3,
+        "Perc_2021": 6.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [178.6731262, -7.4725399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Uganda",
+        "Perc_2000": 17.9,
+        "Perc_2005": 23.9,
+        "Perc_2010": 31.5,
+        "Perc_2015": 35,
+        "Perc_2017": 34.3,
+        "Perc_2018": 34.3,
+        "Perc_2019": 34.9,
+        "Perc_2020": 34.9,
+        "Perc_2021": 34.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [32.2166596, 1.533355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Ukraine",
+        "Perc_2000": 7.8,
+        "Perc_2005": 5.3,
+        "Perc_2010": 8,
+        "Perc_2015": 11.8,
+        "Perc_2017": 12.3,
+        "Perc_2018": 12.3,
+        "Perc_2019": 11.6,
+        "Perc_2020": 20.8,
+        "Perc_2021": 20.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [31.3969383, 49.0100594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United Arab Emirates",
+        "Perc_2000": 0,
+        "Perc_2005": 0,
+        "Perc_2010": 22.5,
+        "Perc_2015": 17.5,
+        "Perc_2017": 20,
+        "Perc_2018": 22.5,
+        "Perc_2019": 22.5,
+        "Perc_2020": 50,
+        "Perc_2021": 50
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [53.9994812, 24.000248]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United Kingdom",
+        "Perc_2000": 18.4,
+        "Perc_2005": 18.1,
+        "Perc_2010": 19.5,
+        "Perc_2015": 22.8,
+        "Perc_2017": 30,
+        "Perc_2018": 32,
+        "Perc_2019": 32,
+        "Perc_2020": 33.9,
+        "Perc_2021": 33.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.5180161, 53.9370766]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United Republic of Tanzania",
+        "Perc_2000": 22.2,
+        "Perc_2005": 21.4,
+        "Perc_2010": 30.7,
+        "Perc_2015": 36,
+        "Perc_2017": 36.4,
+        "Perc_2018": 37.2,
+        "Perc_2019": 36.9,
+        "Perc_2020": 36.9,
+        "Perc_2021": 36.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [35.7878456, -6.5247121]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "United States of America",
+        "Perc_2000": 13.3,
+        "Perc_2005": 14.9,
+        "Perc_2010": 16.8,
+        "Perc_2015": 19.4,
+        "Perc_2017": 19.1,
+        "Perc_2018": 19.5,
+        "Perc_2019": 23.6,
+        "Perc_2020": 23.4,
+        "Perc_2021": 27.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-99.0183029, 39.5035667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Uruguay",
+        "Perc_2000": 12.1,
+        "Perc_2005": 12.1,
+        "Perc_2010": 14.1,
+        "Perc_2015": 13.1,
+        "Perc_2017": 20.2,
+        "Perc_2018": 20.2,
+        "Perc_2019": 22.2,
+        "Perc_2020": 21.2,
+        "Perc_2021": 24.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-56.020153, -32.8755531]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Uzbekistan",
+        "Perc_2000": 6.8,
+        "Perc_2005": 17.5,
+        "Perc_2010": 22,
+        "Perc_2015": 16,
+        "Perc_2017": 16,
+        "Perc_2018": 16,
+        "Perc_2019": 16,
+        "Perc_2020": 32,
+        "Perc_2021": 32.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [63.9528084, 41.3237305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Vanuatu",
+        "Perc_2000": 0,
+        "Perc_2005": 3.8,
+        "Perc_2010": 3.8,
+        "Perc_2015": 0,
+        "Perc_2017": 0,
+        "Perc_2018": 0,
+        "Perc_2019": 0,
+        "Perc_2020": 0,
+        "Perc_2021": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [166.8726044, -15.2412538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Venezuela",
+        "Perc_2000": 12.1,
+        "Perc_2005": 9.7,
+        "Perc_2010": 17.5,
+        "Perc_2015": 17,
+        "Perc_2017": 22.2,
+        "Perc_2018": 22.2,
+        "Perc_2019": 22.2,
+        "Perc_2020": 22.2,
+        "Perc_2021": 22.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-66.1109314, 8.0018711]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Vietnam",
+        "Perc_2000": 26,
+        "Perc_2005": 27.3,
+        "Perc_2010": 25.8,
+        "Perc_2015": 24.3,
+        "Perc_2017": 26.7,
+        "Perc_2018": 26.7,
+        "Perc_2019": 26.7,
+        "Perc_2020": 26.7,
+        "Perc_2021": 26.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.2566223, 13.4233942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Yemen",
+        "Perc_2000": 0.7,
+        "Perc_2005": 0.3,
+        "Perc_2010": 0.3,
+        "Perc_2015": 0.3,
+        "Perc_2017": 0,
+        "Perc_2018": 0,
+        "Perc_2019": 0.3,
+        "Perc_2020": 0.3,
+        "Perc_2021": 0.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [47.8915253, 16.3471241]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Zambia",
+        "Perc_2000": 10.1,
+        "Perc_2005": 12,
+        "Perc_2010": 14,
+        "Perc_2015": 12.7,
+        "Perc_2017": 18,
+        "Perc_2018": 18,
+        "Perc_2019": 18,
+        "Perc_2020": 16.8,
+        "Perc_2021": 16.8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [27.5589886, -14.5189123]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Country": "Zimbabwe",
+        "Perc_2000": 14,
+        "Perc_2005": 10,
+        "Perc_2010": 15,
+        "Perc_2015": 31.5,
+        "Perc_2017": 32.6,
+        "Perc_2018": 33.2,
+        "Perc_2019": 31.9,
+        "Perc_2020": 31.9,
+        "Perc_2021": 31.9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [29.7468414, -18.4554958]
+      }
+    }
+  ]
+}
